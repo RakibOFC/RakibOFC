@@ -1,4 +1,4 @@
-- 👋 Hi, I’m (Rakibul Islam) @RakibOFC
+- 👋 Hi, I’m Rakibul Islam (@RakibOFC)
 - 👀 I'm interested in android app development with Java.
 - 🌱 I’m currently learning android app development.
 - 🙇 I have knowledge about C Programming, Java, and Shell Script.
