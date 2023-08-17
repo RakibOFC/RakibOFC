@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibofc" alt="rakibofc" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rakibofc" target="blank"><img src="https://img.shields.io/twitter/follow/rakibofc?logo=twitter&style=for-the-badge" alt="rakibofc" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/rakibofc/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="rakibofc" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
