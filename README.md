@@ -22,13 +22,10 @@
 - 🧪 [Image Map Tester](https://github.com/RakibOFC/Image-Map-Tester): A tool for validating touch regions on image maps.
 - 🔧 [Android Toolbox](https://github.com/RakibOFC/Android-Toolbox): PDF reader, stopwatch, notebook, and more.
 
-<p>
-  I am an experienced Android developer with a strong track record of successful projects and continuous self-improvement. From June 2023 to the present, I have taken on a leadership role in developing the Proggamoy Quran mobile app, collaborated on enhancing the Carbangla app, and played a significant role in crafting the UI for the Careeh mobile application. Prior to this, I worked independently from December 2020 to the present, gaining over two years of experience and creating more than 20 Android applications, including the popular "Al Muslim" app with 30,000+ downloads and 200+ five-star reviews on the Google Play Store. Additionally, I have contributed to various open-source Android projects on my GitHub account, showcasing my expertise and dedication to the Android development community. My Android development journey reflects my commitment to innovation and excellence in the field.
-</p>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left"> <a href="https://www.linkedin.com/in/rakibofc/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="rakibofc" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rakibofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakibofc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakibofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibofc" height="30" width="40" /></a>
