@@ -1,9 +1,29 @@
-<h3 align="center">Android Developer</h3>
+# 🚀 Rakibul Islam — Android Developer ⚡
+
+🚀 I'm a passionate Android Developer from Bangladesh, building intuitive and performance-optimized apps with Java, Kotlin, and Jetpack Compose.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibofc&label=Profile%20views&color=0e75b6&style=flat" alt="rakibofc" /> </p>
 
+### 👨‍💻 About Me
+- 🔧 I specialize in Android development with experience in both XML-based UI and Jetpack Compose.
+- 📲 I've worked on real-time chat, video processing, AI-based features, and system architecture in production-level apps.
+- 🎯 I believe in writing clean, scalable code and continuously learning new technologies.
+
+### 🧠 Skills
+- 💻 Languages: Java, Kotlin, XML, SQL, Bash
+- 📦 Tech: Jetpack Compose, Room, Retrofit2, Hilt, FFmpeg, TensorFlow Lite, Firebase, LeakCanary
+- 🔧 Architecture: MVVM, MVI, Dependency Injection
+- 🔗 Tools: Git, GitHub, Bitbucket, Figma, Android Studio
+
+### 🧰 Projects
+- 📱 [Motion2Coach Golf App](https://play.google.com/store/apps/details?id=com.fenris.motion2coach&hl=en): 3D golf swing analysis, video processing, real-time chat, and AI-based feedback.
+- 📖 [Proggamoy Quran App](https://proggamoyquran.com/our-apps): Feature-rich Quran app with offline audio, local DB, and clean UI.
+- 🕌 [Al Muslim App](https://play.google.com/store/apps/details?id=com.rakibofc.inspiretobeislamic): Islamic lifestyle app with localization, widgets, Firebase push notifications, and smart tools for practicing Muslims.
+- 🧪 [Image Map Tester](https://github.com/RakibOFC/Image-Map-Tester): A tool for validating touch regions on image maps.
+- 🔧 [Android Toolbox](https://github.com/RakibOFC/Android-Toolbox): PDF reader, stopwatch, notebook, and more.
+
 <p>
-  I am an experienced Android developer with a strong track record of successful projects and continuous self-improvement. From June 2023 to the present, I have taken on a leadership role in developing the Proggamoy Quran mobile app, collaborated on enhancing the Carbangla app, and played a significant role in crafting the UI for the Careeh mobile application. Prior to this, I worked independently from December 2020 to the present, gaining over two years of experience and creating more than 20 Android applications, including the popular "Al Muslim" app with 20,000+ downloads and 200+ five-star reviews on the Google Play Store. Additionally, I have contributed to various open-source Android projects on my GitHub account, showcasing my expertise and dedication to the Android development community. My Android development journey reflects my commitment to innovation and excellence in the field.
+  I am an experienced Android developer with a strong track record of successful projects and continuous self-improvement. From June 2023 to the present, I have taken on a leadership role in developing the Proggamoy Quran mobile app, collaborated on enhancing the Carbangla app, and played a significant role in crafting the UI for the Careeh mobile application. Prior to this, I worked independently from December 2020 to the present, gaining over two years of experience and creating more than 20 Android applications, including the popular "Al Muslim" app with 30,000+ downloads and 200+ five-star reviews on the Google Play Store. Additionally, I have contributed to various open-source Android projects on my GitHub account, showcasing my expertise and dedication to the Android development community. My Android development journey reflects my commitment to innovation and excellence in the field.
 </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/rakibofc/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="rakibofc" /></a> </p>
