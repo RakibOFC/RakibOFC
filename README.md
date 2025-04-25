@@ -13,7 +13,7 @@
 - 💻 Languages: Java, Kotlin, XML, SQL, Bash
 - 📦 Tech: Jetpack Compose, Room, Retrofit2, Hilt, FFmpeg, TensorFlow Lite, Firebase, LeakCanary
 - 🔧 Architecture: MVVM, MVI, Dependency Injection
-- 🔗 Tools: Git, GitHub, Bitbucket, Figma, Android Studio
+- 🔗 Tools: Git, GitHub, Bitbucket, Figma, etc
 
 ### 🧰 Projects
 - 📱 [Motion2Coach Golf App](https://play.google.com/store/apps/details?id=com.fenris.motion2coach&hl=en): 3D golf swing analysis, video processing, real-time chat, and AI-based feedback.
