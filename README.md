@@ -16,9 +16,9 @@
 - 🔗 Tools: Git, GitHub, Bitbucket, Figma, etc
 
 ### 🧰 Projects
-- 📱 [Motion2Coach Golf App](https://play.google.com/store/apps/details?id=com.fenris.motion2coach&hl=en): 3D golf swing analysis, video processing, real-time chat, and AI-based feedback.
+- 📱 [Motion2Coach Golf App](https://play.google.com/store/apps/details?id=com.fenris.motion2coach&hl=en): AI-based 3D golf swing analysis, video processing, real-time chat, etc.
 - 📖 [Proggamoy Quran App](https://proggamoyquran.com/our-apps): Feature-rich Quran app with offline audio, local DB, and clean UI.
-- 🕌 [Al Muslim App](https://play.google.com/store/apps/details?id=com.rakibofc.inspiretobeislamic): Islamic lifestyle app with localization, widgets, Firebase push notifications, and smart tools for practicing Muslims.
+- 🕌 [Al Muslim App](https://play.google.com/store/apps/details?id=com.rakibofc.inspiretobeislamic): Islamic lifestyle app with Quran, prayer time, dua reminder, auto silent, masjid finder, localization, widgets, and smart tools for practicing Muslims.
 - 🧪 [Image Map Tester](https://github.com/RakibOFC/Image-Map-Tester): A tool for validating touch regions on image maps.
 - 🔧 [Android Toolbox](https://github.com/RakibOFC/Android-Toolbox): PDF reader, stopwatch, notebook, and more.
 
